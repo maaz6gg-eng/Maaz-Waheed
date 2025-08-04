@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on exciting front-end projects
 - 🌱 I’m learning React, Tailwind, and AI tools
 - 💬 Ask me about HTML, CSS, JS, WordPress, SEO, or freelancing tips
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maaz-waheed-253066309/) | Email: yourmail@example.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maaz-waheed-253066309/) | Email: maaz6gg@example.com
 
 ## 🔧 Technologies & Tools
 
